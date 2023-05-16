@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif" />
+  <img height="300" width="1000" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif" />
 </div>
 
 ###
