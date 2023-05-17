@@ -30,14 +30,13 @@
 
 ###
 
-- PHP
-- Laravel
-- Node.js
-- Express.js
-- Nest.js
-- MySQL
-- Git
-- RESTful APIs
+Skills                
+---------------------|---------------------
+PHP                   | MySQL
+Laravel               | Git
+Node.js               | RESTful APIs
+Express.js            |
+Nest.js               |
 
 ###
 
