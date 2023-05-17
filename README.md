@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Hi, I'm Mohamed, a backend developer with over five years of experience. I specialize in PHP and Laravel, as well as Node.js with experience using Express.js and Nest.js. I'm always eager to learn and stay up-to-date with the latest technologies.<br><br>- 🔭 I’m working as software engineer<br>- 📚 I'm currently learning nodejs<br>- ⚡ In my free time I enjoy reading books</p>
+<p align="left">Hi, I'm Mohamed, a Software Engineer with over five years of experience.  <br><br>- 🔭 I specialize in PHP and Laravel, as well as Node.js with experience using Express.js and Nest.js.<br>- 📚 I'm always eager to learn and stay up-to-date with the latest technologies.<br>- ⚡ In my free time I enjoy reading books</p>
 
 
 
