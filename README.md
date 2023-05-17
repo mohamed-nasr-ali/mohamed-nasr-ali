@@ -55,7 +55,7 @@ I'm always looking to expand my skillset. Currently, I'm focusing on learning mo
 
 ###
 
-In my free time, I enjoy reading books on technology and entrepreneurship. I also like to stay active by playing soccer and going for runs.
+In my free time, I enjoy reading books on technology and entrepreneurship.
 
 ###
 
