@@ -30,29 +30,17 @@
 
 ###
 
-<div class="row">
-  <div class="col-6">
-    <ul>
-      <li>PHP</li>
-      <li>Laravel</li>
-      <li>Node.js</li>
-      <li>Express.js</li>
-      <li>Nest.js</li>
-      <li>MySQL</li>
-      <li>Git</li>
-      <li>RESTful APIs</li>
-    </ul>
-  </div>
-  <div class="col-6">
-    <ul>
-      <li>Docker</li>
-      <li>Redis</li>
-      <li>PostgreSQL</li>
-      <li>Amazon Web Services</li>
-      <li>Google Cloud Platform</li>
-    </ul>
-  </div>
-</div>
+- PHP
+- Laravel
+- Node.js
+- Express.js
+- Nest.js
+- MySQL
+- PostgreSQL
+- MongoDB
+- Git
+- RESTful APIs
+
 ###
 
 <h3 align="left">📖 Currently Learning</h3>
