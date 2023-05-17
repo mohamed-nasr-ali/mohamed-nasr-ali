@@ -24,10 +24,11 @@
 
 <p align="left">Hi, I'm Mohamed, a Software Engineer with over five years of experience.  <br><br>- 🔭 I specialize in PHP and Laravel, as well as Node.js with experience using Express.js and Nest.js.<br>- 📚 I'm always eager to learn and stay up-to-date with the latest technologies.<br>- ⚡ In my free time I enjoy reading books</p>
 
+###
 
+<h3 align="left">🧠 Skills</h3>
 
-
-## Skills
+###
 
 - PHP
 - Laravel
@@ -38,11 +39,19 @@
 - Git
 - RESTful APIs
 
-## Currently Learning
+###
+
+<h3 align="left">📖 Currently Learning</h3>
+
+###
 
 I'm always looking to expand my skillset. Currently, I'm focusing on learning more about microservices architecture and containerization using Docker.
 
-## Hobbies
+###
+
+<h3 align="left">💡 Hobbies</h3>
+
+###
 
 In my free time, I enjoy reading books on technology and entrepreneurship. I also like to stay active by playing soccer and going for runs.
 
