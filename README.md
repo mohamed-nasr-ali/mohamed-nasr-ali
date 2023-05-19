@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">Hi, I'm Mohamed, a Software Engineer with over five years of experience.  <br><br>- 🔭 I specialize in PHP and Laravel, as well as Node.js with experience using Express.js and Nest.js.<br>- 📚 I'm always eager to learn and stay up-to-date with the latest technologies.<br>- ⚡ In my free time I enjoy reading books</p>
+<p align="left">Hi, I'm Mohamed, a Software Engineer with over five years of experience.  <br><br>- 🔭 I am specialized in backend development, with advanced skills in working with Node.js and utilizing frameworks such as Nest.js and Express.js. Additionally, I have extensive experience in PHP development using the Laravel framework. My expertise in this field is excellent.<br>- 📚 I'm always eager to learn and stay up-to-date with the latest technologies.<br>- ⚡ In my free time I enjoy reading books</p>
 
 ###
 
