@@ -70,7 +70,7 @@ In my free time, I enjoy reading books on technology and entrepreneurship.
 
 ###
 
-<h3 align="left"> <span style="color: yellow;"> 🛠 </span> Language and tools</h3>
+<h3 align="left"> 🛠 Language and tools</h3>
 
 ###
 
