@@ -29,7 +29,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left"> 👩‍💻  About Me</h3>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<h3 align="left">🧠 Skills</h3>
+<h3 align="left"> 🧠 Skills</h3>
 
 ###
 
@@ -62,7 +62,7 @@ I'm always looking to expand my skillset. Currently, I'm focusing on learning mo
 
 ###
 
-<h3 align="left"><span style="color: yellow;">💡</span> Hobbies</h3>
+<h3 align="left"> 💡 Hobbies</h3>
 
 ###
 
@@ -70,7 +70,7 @@ In my free time, I enjoy reading books on technology and entrepreneurship.
 
 ###
 
-<h3 align="left"><span style="color: black;">🛠</span> Language and tools</h3>
+<h3 align="left"> 🛠 Language and tools</h3>
 
 ###
 
