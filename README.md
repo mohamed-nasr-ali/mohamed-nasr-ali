@@ -62,7 +62,7 @@ I'm always looking to expand my skillset. Currently, I'm focusing on learning mo
 
 ###
 
-<h3 align="left">💡 Hobbies</h3>
+<h3 align="left"><span style="color: yellow;">💡</span> Hobbies</h3>
 
 ###
 
@@ -70,7 +70,7 @@ In my free time, I enjoy reading books on technology and entrepreneurship.
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left"><span style="color: black;">🛠</span> Language and tools</h3>
 
 ###
 
@@ -121,9 +121,14 @@ In my free time, I enjoy reading books on technology and entrepreneurship.
 <h3 align="left">🏗️ Projects</h3>
 
 ###
-[![Motgen.net](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png)](https://motgen.net/)
-[![Fastline Delivery](https://github.githubassets.com/images/icons/emoji/unicode/1f50e.png)](https://fastline-delivery.com/)
-[![Primecard](https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png)](http://www.primecard.ly/)
-[![Sheraa](https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png)](http://sa.sheraa.net/ar)
-[![Cayan](https://github.githubassets.com/images/icons/emoji/unicode/2699.png)](https://cayan.co/)
-[![LC CSI Porex](https://github.githubassets.com/images/icons/emoji/unicode/2714.png)](https://www.lccsiporex.com/en/)
+
+here are some of the projects I've worked on:
+
+###
+
+- 🛍️ [Sheraa - E-Commerce Site](http://sa.sheraa.net/ar): An online marketplace for buying and selling goods.
+- 📚 [Notgen - Education Platform](https://motgen.net/): A platform for online learning and course management.
+- 🚀 [Fastline - Logistics Company](https://fastline-delivery.com/): A platform for transportation services for businesses and individuals.
+- 💳 [Primecard - Payment Solution Company](http://www.primecard.ly/): A website offers electronic payment services to businesses and individuals.
+- 🏠 [Siporex - Construction Materials Company](https://www.lccsiporex.com/en/): A website provides information about company products, services, and projects, as well as technical information and certifications.
+- 💻 [Cayan - Digital Marketing Agency](https://cayan.co/): A website provides provides information about company services, case studies, and team members, as well as a contact form for inquiries..
