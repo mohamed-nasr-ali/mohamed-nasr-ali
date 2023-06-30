@@ -116,12 +116,14 @@ In my free time, I enjoy reading books on technology and entrepreneurship.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" width="52" alt="webpack logo"  />
 </div>
 
+###
 
-# Projects Links
+<h3 align="left">🏗️ Projects</h3>
 
-[![Motgen.net](https://i.imgur.com/8w1fVnR.png)](https://motgen.net/)
-[![Fastline Delivery](https://i.imgur.com/5yJcZn5.png)](https://fastline-delivery.com/)
-[![Primecard](https://i.imgur.com/VIUwvL5.png)](http://www.primecard.ly/)
-[![Sheraa](https://i.imgur.com/1YzG0V5.png)](http://sa.sheraa.net/ar)
-[![Cayan](https://i.imgur.com/PVQJGfF.png)](https://cayan.co/)
-[![LC CSI Porex](https://i.imgur.com/B9Oy1cT.png)](https://www.lccsiporex.com/en/)
+###
+[![Motgen.net](https://github.githubassets.com/images/icons/emoji/unicode/1f680.png)](https://motgen.net/)
+[![Fastline Delivery](https://github.githubassets.com/images/icons/emoji/unicode/1f50e.png)](https://fastline-delivery.com/)
+[![Primecard](https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png)](http://www.primecard.ly/)
+[![Sheraa](https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png)](http://sa.sheraa.net/ar)
+[![Cayan](https://github.githubassets.com/images/icons/emoji/unicode/2699.png)](https://cayan.co/)
+[![LC CSI Porex](https://github.githubassets.com/images/icons/emoji/unicode/2714.png)](https://www.lccsiporex.com/en/)
