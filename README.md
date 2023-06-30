@@ -127,7 +127,7 @@ here are some of the projects I've worked on:
 ###
 
 - 🛍️ [Sheraa - E-Commerce Site](http://sa.sheraa.net/ar): An online marketplace for buying and selling goods.
-- 📚 [Notgen - Education Platform](https://motgen.net/): A platform for online learning and course management.
+- 📚 [Motgen - Education Platform](https://motgen.net/): A platform for online learning and course management.
 - 🚀 [Fastline - Logistics Company](https://fastline-delivery.com/): A platform for transportation services for businesses and individuals.
 - 💳 [Primecard - Payment Solution Company](http://www.primecard.ly/): A website offers electronic payment services to businesses and individuals.
 - 🏠 [Siporex - Construction Materials Company](https://www.lccsiporex.com/en/): A website provides information about company products, services, and projects, as well as technical information and certifications.
